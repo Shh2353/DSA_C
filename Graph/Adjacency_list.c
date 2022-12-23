@@ -44,7 +44,7 @@ int main(){
     }
     addNode(0,1);
     addNode(0,2);
-    addNode(1,1);
+    addNode(1,2);
     addNode(2,3);
     addNode(2,1);
     addNode(3,1);
